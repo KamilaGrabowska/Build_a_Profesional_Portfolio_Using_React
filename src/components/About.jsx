@@ -1,4 +1,4 @@
-import AvatarCopy from '../assets/AvatarCopy.JPG';
+import AvatarCopy from '../assets/AvatarCopy.jpg';
 
 
 const About = () => {
