@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "Books Kids appSearch",
+    "description" : "KidsBookSearch is a simple application for searching and exploring children's books. The app allows parents and caregivers to quickly find age-appropriate books tailored to their child's interests.",
+    "link" : "https://github.com/KamilaGrabowska/Books_Kids_appSearch"
+  },
+  {
+    "name" : "To Do App",
+    "description" : "The to do app is an application providing users with a tool designed to enhance productivity and organization in users' daily lives.",
+    "link" : "https://github.com/KamilaGrabowska/todo_mv/tree/master"
+  },
+  {
+    "name" : "Best Shop",
+    "description" : "Mobile design of the BestShop website",
+    "link" : "https://github.com/KamilaGrabowska/bs_rwd"
+  },
+  {
+    "name" : "Car Sharing",
+    "description" : "Design of the Car Sharing website",
+    "link" : "https://github.com/KamilaGrabowska/car-sharing/tree/master/src"
+  }
+]
