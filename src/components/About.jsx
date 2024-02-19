@@ -1,5 +1,5 @@
 import AvatarCopy from '../assets/AvatarCopy.jpg';
-
+import './About.scss'
 
 const About = () => {
     return (

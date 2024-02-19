@@ -1,0 +1,70 @@
+.header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 7rem;
+  z-index: 2;
+  background: rgba(0, 0, 0, 0.3);
+  display: flex;
+  justify-content: space-between;
+
+}
+.header-logo {
+  display: flex;
+  justify-content: flex-start;
+  padding: 2rem 2.8rem;
+  position: fixed;
+  margin-left: 2rem;
+  margin-top: 0.5rem;
+}
+
+
+.header-name {
+  color: white;
+  border: 3px solid #edf2f4;
+  padding: 0.7em;
+  font-size: 1rem;
+  animation: show 0.5s;
+  text-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  margin-left: 2rem;
+}
+
+.header-container {
+  position: relative;
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  padding: 5rem;
+  text-align: right;
+  color: lightgrey;
+  z-index: 2;
+  transition: all .2s linear
+
+}
+
+.nav-item {
+  position: relative;
+  display: inline-block;
+  padding: 3rem;
+  font-size: 1.3rem;
+  margin-right: 2rem;
+
+}
+
+.nav-item:after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: .2rem;
+  opacity: 0;
+  bottom: 1rem;
+  left: 0;
+  transition: all .1s ease-in-out;
+  background-color: lightgrey;
+}
+
+
+.nav-item:hover:after {
+  opacity: 1;
+}

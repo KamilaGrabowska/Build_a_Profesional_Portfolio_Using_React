@@ -1,0 +1,46 @@
+.about {
+  height: 60vh;
+  width: 100%;
+  padding: 4rem 5rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.about-heading {
+  font-size: 4rem;
+  text-transform: uppercase;
+  letter-spacing: .3rem;
+  color: black;
+}
+
+.about-info {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.about .about-info .about-desc {
+  font-size: 1.7rem;
+  line-height: 2rem;
+  max-width: 50%;
+  margin-top: -0.2rem;
+  display: flex;
+  align-items: center;
+}
+.about .about-img {
+  display: block;
+
+}
+
+.about .about-img .about-img-wrapper {
+  padding: 15px;
+  margin-top: 25px;
+  height: auto;
+  max-width: 400px;
+  position: relative;
+  display: inline-block;
+
+}
+.about .about-img .about-img-wrapper img {
+  width: 60%;
+}

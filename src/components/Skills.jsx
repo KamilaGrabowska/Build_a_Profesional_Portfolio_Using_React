@@ -1,4 +1,5 @@
 import { FaJs, FaReact, FaHtml5, FaCss3, FaGithub, FaSass   } from "react-icons/fa";
+import './Skills.scss'
 
 const Skills = () => {
     const skillsArr = [
