@@ -1,11 +1,12 @@
-import { FaJs, FaReact, FaHtml5, FaCss3, FaGithub, FaSass   } from "react-icons/fa";
+import {  FaReact, FaHtml5, FaCss3, FaGithub, FaSass   } from "react-icons/fa";
+import { DiJavascript } from "react-icons/di";
 import './Skills.scss'
 
 const Skills = () => {
     const skillsArr = [
         {
             "name" : 'JavaScript',
-            "icon" : FaJs
+            "icon" : DiJavascript
         },
         {
             "name" : "HTML",

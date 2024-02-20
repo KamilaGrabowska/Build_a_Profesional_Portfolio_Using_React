@@ -19,7 +19,7 @@ const About = () => {
                 </p>
                 <div className="about-img">
                     <div className="about-img-wrapper">
-                        <img src={AvatarCopy} alt="Kamila Garbowska foto" />
+                        <img src={AvatarCopy} alt="Kamila Garbowska foto"/>
                     </div>
                 </div>
             </div>

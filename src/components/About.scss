@@ -27,9 +27,12 @@
   display: flex;
   align-items: center;
 
+
 }
 .about .about-img {
   display: block;
+
+
 
 }
 
@@ -43,5 +46,6 @@
 
 }
 .about .about-img .about-img-wrapper img {
-  width: 60%;
+  width: 65%;
+  border-radius: 50%;
 }
