@@ -1,5 +1,5 @@
 .about {
-  height: 60vh;
+  height: 40vh;
   width: 100%;
   padding: 4rem 5rem;
   display: flex;
@@ -26,6 +26,7 @@
   margin-top: -0.2rem;
   display: flex;
   align-items: center;
+
 }
 .about .about-img {
   display: block;
@@ -33,10 +34,10 @@
 }
 
 .about .about-img .about-img-wrapper {
-  padding: 15px;
-  margin-top: 25px;
+  padding: 10px;
+  margin-top: 20px;
   height: auto;
-  max-width: 400px;
+  max-width: 450px;
   position: relative;
   display: inline-block;
 
