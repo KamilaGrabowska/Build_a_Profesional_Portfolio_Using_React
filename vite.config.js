@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      external: ['../assets/Avatar.jpg']
+      external: ['../assets/avatar.jpg']
     }
   }
 })
