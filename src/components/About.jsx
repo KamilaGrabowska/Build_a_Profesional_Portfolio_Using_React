@@ -1,4 +1,4 @@
-import Avatar from '../assets/Avatar.jpg';
+import Avatar from 'src/assets/Avatar.jpg';
 import './About.scss'
 
 const About = () => {
