@@ -1,4 +1,4 @@
-import Avatar from '../assets/Avatar.jpg';
+import avatar from '../assets/avatar.jpg';
 import './About.scss'
 
 const About = () => {
@@ -19,7 +19,7 @@ const About = () => {
                 </p>
                 <div className="about-img">
                     <div className="about-img-wrapper">
-                        <img src={Avatar} alt="Kamila Garbowska foto"/>
+                        <img src={avatar} alt="Kamila Garbowska foto"/>
                     </div>
                 </div>
             </div>
