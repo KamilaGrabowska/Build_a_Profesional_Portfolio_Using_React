@@ -290,6 +290,11 @@
     -webkit-box-orient: vertical;
   }
   .project-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 380px;
+
     width: 8rem;
     font-size: 1.4rem;
     font-weight: 800;
@@ -297,5 +302,6 @@
     border: 1px solid rgba(30, 39, 46, 0.7);
     border-radius: 8%;
     color: rgba(30, 39, 46, 0.7);
+
   }
 }

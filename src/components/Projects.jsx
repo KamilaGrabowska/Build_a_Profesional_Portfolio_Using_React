@@ -51,6 +51,13 @@ const Projects = () => {
                                                 rel="noreferrer"
                                             >GitHub
                                             </a>
+                                            <a
+                                                className="project-button"
+                                                target="_blank"
+                                                href={project.www}
+                                                rel="noreferrer"
+                                            >www
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
