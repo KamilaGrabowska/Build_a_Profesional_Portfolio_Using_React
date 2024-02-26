@@ -1,6 +1,6 @@
 import avatar from '../assets/avatar.jpg';
 import './About.scss'
-import image from '../assets/'
+import image from '../assets/image.jpeg'
 
 const About = () => {
     return (
@@ -20,7 +20,7 @@ const About = () => {
                 </p>
                 <div className="about-img">
                     <div className="about-img-wrapper">
-                        <img src={avatar} alt="Kamila Garbowska foto"/>
+                        <img src={image} alt="Kamila Garbowska foto"/>
                     </div>
                 </div>
             </div>
