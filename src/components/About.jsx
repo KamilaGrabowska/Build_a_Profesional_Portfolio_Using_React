@@ -1,5 +1,6 @@
 import avatar from '../assets/avatar.jpg';
 import './About.scss'
+import image from '../assets/'
 
 const About = () => {
     return (
