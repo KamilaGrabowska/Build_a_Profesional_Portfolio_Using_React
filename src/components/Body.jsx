@@ -1,12 +1,12 @@
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import avatar from '../assets/avatar.jpg';
+import image from '../assets/image.jpg';
 import './Body.scss'
 const Body = () => {
     return (
         <div id="body" className="body">
             <div className="body-container">
                 <div className="body-profile">
-                    <img className="body-img" alt='avatar' src={avatar} width={150} height={140} />
+                    <img className="body-img" alt='avatar' src={image} width={150} height={140} />
 
                     <div className="body-content">
                         <div className="body-headline">Kamila Grabowska</div>
